@@ -26,7 +26,7 @@ function Random() {
     console.log("🙃");
   }
   if (g == 7) {
-    console.log("🤔");
+    console.log("🤔"); //i want die from this code
   }
   if (g == 8) {
     console.log("🧐");
